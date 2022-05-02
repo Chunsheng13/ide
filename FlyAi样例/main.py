@@ -2,7 +2,7 @@
 '''
 构建自己的模型:我们可以在Main类之外，编写模型代码，也单独可以建立一个模型文件，如net.py，然后调用即可。
 将训练好的模型保存到MODEL_PATH路径下，MODEL_PATH的定义可以查看path.py文件。
-
+此为分类任务
 '''
 # -*- coding: utf-8 -*-
 import argparse
