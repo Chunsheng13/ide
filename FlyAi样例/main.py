@@ -88,3 +88,4 @@ if __name__ == '__main__':
     main = Main()
     main.download_data()
     main.train()
+    print("never give up!")
